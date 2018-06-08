@@ -4,6 +4,20 @@
 
 > Just put in your firebase credentials in src/config/index.js
 
+UI Demo: https://nwsm.github.io/bootstrap-vue-firebase-template (won't actually authenticate as there are no Firebase credentials)
+
+## Uses:
+
+bootstrap-vue
+
+firebase
+
+vue-router
+
+webpack
+
+vuex (installed/setup but not used)
+
 ## Build Setup
 
 ``` bash
